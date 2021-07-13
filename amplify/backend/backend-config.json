@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifyappandrei200ce3130": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
