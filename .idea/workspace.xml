@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a6bd21d-9c68-4ae1-a325-9b825a2b8178" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.graphqlconfig.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/amplifyapp-andrei2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/.config/project-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/api/notesapp/parameters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/api/notesapp/resolvers/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/api/notesapp/schema.graphql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/api/notesapp/stacks/CustomResources.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/api/notesapp/transform.conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/auth/amplifyappandrei200ce3130/amplifyappandrei200ce3130-cloudformation-template.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/auth/amplifyappandrei200ce3130/parameters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/backend-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/tags.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/team-provider-info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/mutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/queries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphql/subscriptions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vLMOhVeecYHTUa2ZIMwSgbGk6S" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a6bd21d-9c68-4ae1-a325-9b825a2b8178" name="Default Changelist" comment="" />
+      <created>1626336888958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626336888958</updated>
+      <workItem from="1626336898643" duration="187000" />
+      <workItem from="1626337094164" duration="721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
